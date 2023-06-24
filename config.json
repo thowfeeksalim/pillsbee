@@ -1,0 +1,7 @@
+{
+  "appId": "001",
+  "masterKey": "500",
+  "databaseURI": "mongodb://localhost:27017/dev",
+  "serverURL": "http://localhost:1337/parse",
+  "appName": "pillsbee"
+}
